@@ -1,4 +1,4 @@
-# tugaPKL-Input-Berita-
+# TugasPKL-Input-Berita-
 
 ### Cara Download File
 #### 1. Klik Tombol Code Yang Berwarna hijau di atas table 
